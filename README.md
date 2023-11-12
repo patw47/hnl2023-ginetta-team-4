@@ -15,7 +15,7 @@ https://hacknlead.streamlit.app/
 This app is build with Streamlit and LlamaIndex.
 LlamaIndex is a data framework for LLM-based applications to ingest, structure, and access private or domain-specific data
 LlamaIndex connects data sources to the data LLMs already have. It's called Retrieval-Augmented Generation (RAG). RAG enables to use LLMs to query our data, transform it, and generate new insights. 
-If you want to try the app, you need to replace the OpenAI key in the python file `streamlit_app.py` with your own key. 
+If you want to try the app, you need to replace the OpenAI key in the python file `streamlit_app.py` line 8 with your own key. 
 
 https://docs.llamaindex.ai/en/stable/#how-can-llamaindex-help
 
