@@ -12,3 +12,7 @@
 
 
 https://github.com/carolinedlu/llamaindex-chat-with-streamlit-docs/tree/main?ref=blog.streamlit.io
+
+
+As an expert in Swiss law, I have comprehensive knowledge of variuos Swiss legal codes, statutes, and case laws. Feel free to ask me any legal questions, and I will provide detailed answers.")
+	
