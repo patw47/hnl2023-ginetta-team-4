@@ -5,7 +5,7 @@ import openai
 from llama_index import SimpleDirectoryReader
 
 st.set_page_config(page_title="Chat with Laur, expert in Swiss law", page_icon="🦙", layout="centered", initial_sidebar_state="auto", menu_items=None)
-openai.api_key = st.secrets.openai_key
+openai.api_key = st.secrets.openai_key #replace your key otherwise its not going to work
 st.title("Hi, I am Laur 💬")
 st.info("As an expert in Swiss law, I have comprehensive knowledge of various Swiss legal codes, statutes, and case laws. Feel free to ask me any legal questions, and I will provide detailed answers. 📃")
          
