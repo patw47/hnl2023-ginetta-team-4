@@ -10,10 +10,12 @@ Creation of the Swiss Law Expert Chatbot Laur
 - Hafsa Aoutir [Linkedin](https://www.linkedin.com/in/hafsa-aoutir-448b52230/) - [GitHub](https://github.com/aoutir)
 - David Cardoso Sequeira [Linkedin](https://www.linkedin.com/in/uxd-david-c/) - [GitHub](https://github.com/CardSD)
 
-## Chatbot prototype on Streamlit 
+## Chatbot prototype
+This app is build with Streamlit and LlamaIndex.
+LlamaIndex is a data framework for LLM-based applications to ingest, structure, and access private or domain-specific data
+LlamaIndex connects data sources to the data LLMs already have. It's called Retrieval-Augmented Generation (RAG). RAG enables to use LLMs to query our data, transform it, and generate new insights. 
 
-https://hacknlead.streamlit.app/
-
+https://docs.llamaindex.ai/en/stable/#how-can-llamaindex-help
 ## Steps
 
 1. Use this repository as a template (or Fork it)
