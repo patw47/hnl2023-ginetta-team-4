@@ -17,13 +17,12 @@ LlamaIndex is a data framework for LLM-based applications to ingest, structure, 
 LlamaIndex connects data sources to the data LLMs already have. It's called Retrieval-Augmented Generation (RAG). RAG enables to use LLMs to query our data, transform it, and generate new insights. 
 
 https://docs.llamaindex.ai/en/stable/#how-can-llamaindex-help
-## Steps
 
-1. Use this repository as a template (or Fork it)
-2. Add your team members as contributors
-3. Put your presentation in the `docs/` folder
-4. This repository **must** be open source (and licensed) in order to submit
-5. Add the tag `hack-n-lead` to the repo description
+## Figma Prototype 
+https://www.figma.com/file/Ta2N9GKb47l5n9yJKcVBVy/L-IMPACTER-%3A-Hack'n'lead?type=design&node-id=107%3A13908&mode=design&t=7fcow8GFFwYutY6Q-1
+
+## Presentation
+https://docs.google.com/presentation/d/1EqjhyPqhBLsOlwq1to33Mciqc6KMVwWvdRVZdcidYxE/edit
 
 
 
