@@ -6,7 +6,9 @@ Creation of the Swiss Law Expert Chatbot Laur
 ## Contributors
 - Lukasz Bartkiewicz
 - Patricia Wintrebert
-- 
+- Ayauguli Khuanbai
+-
+
 ## Steps
 
 1. Use this repository as a template (or Fork it)
