@@ -4,7 +4,6 @@ Creation of the Swiss Law Expert Chatbot Laur
 https://hacknlead.streamlit.app/
 ![GitHub Logo](https://github.com/patw47/hnl2023-ginetta-team-4/blob/main/Screenshot%202023-11-12%20162520.png)
 
-![Alt Text][IMAGE_URL](https://github.com/patw47/hnl2023-ginetta-team-4/blob/main/Screenshot%202023-11-12%20162520.png)
 ## Contributors
 - Lukasz Bartkiewicz - [Linkedin](https://www.linkedin.com/in/lukasz-bartkiewicz/)
 - Patricia Wintrebert [Linkedin](https://www.linkedin.com/in/patriciawintrebert/) - [GitHub](https://github.com/patw47)
