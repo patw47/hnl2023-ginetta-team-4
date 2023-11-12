@@ -5,7 +5,7 @@ Creation of the Swiss Law Expert Chatbot Laur
 ===
 ## Contributors
 - Lukasz Bartkiewicz - [Linkedin](https://www.linkedin.com/in/lukasz-bartkiewicz/) - GitHub
-- Patricia Wintrebert [Linkedin](https://www.linkedin.com/in/patriciawintrebert/) - GitHub
+- Patricia Wintrebert [Linkedin](https://www.linkedin.com/in/patriciawintrebert/) - [GitHub](https://hacknlead.streamlit.app/)
 - Ayauguli Khuanbai
 - Hafsa Aoutir [Linkedin](https://www.linkedin.com/in/hafsa-aoutir-448b52230/) - GitHub
 - David Cardoso Sequeira [Linkedin](https://www.linkedin.com/in/uxd-david-c/) - GitHub
