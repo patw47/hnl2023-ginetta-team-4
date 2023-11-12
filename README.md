@@ -1,4 +1,4 @@
-# [Hack n Lead](https://womenplusplus.ch/hacknlead)
+# [Hack'n'Lead 2023](https://womenplusplus.ch/hacknlead)
 ## Team Ginetta #4 - L-Impactors
 Creation of the Swiss Law Expert Chatbot Laur
 
