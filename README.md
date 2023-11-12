@@ -1,7 +1,12 @@
 # [Hack n Lead](https://womenplusplus.ch/hacknlead)
+## Team Ginetta #4 - L-Impactors
+Creation of the Swiss Law Expert Chatbot Laur
 
 ===
-
+## Contributors
+- Lukasz Bartkiewicz
+- Patricia Wintrebert
+- 
 ## Steps
 
 1. Use this repository as a template (or Fork it)
@@ -11,5 +16,4 @@
 5. Add the tag `hack-n-lead` to the repo description
 
 
-https://github.com/carolinedlu/llamaindex-chat-with-streamlit-docs/tree/main?ref=blog.streamlit.io
 
