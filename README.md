@@ -5,10 +5,10 @@ Creation of the Swiss Law Expert Chatbot Laur
 ===
 ## Contributors
 - Lukasz Bartkiewicz - [Linkedin](https://www.linkedin.com/in/lukasz-bartkiewicz/)
-- Patricia Wintrebert
+- Patricia Wintrebert [Linkedin](https://www.linkedin.com/in/patriciawintrebert/)
 - Ayauguli Khuanbai
-- Hafsa Aoutir
-- David Cardoso Sequeira
+- Hafsa Aoutir [Linkedin](https://www.linkedin.com/in/hafsa-aoutir-448b52230/)
+- David Cardoso Sequeira [Linkedin](https://www.linkedin.com/in/uxd-david-c/)
 
 ## Steps
 
