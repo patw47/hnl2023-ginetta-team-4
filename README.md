@@ -7,7 +7,7 @@ https://hacknlead.streamlit.app/ (note that If you want to try the app, you need
 ## Contributors
 - Lukasz Bartkiewicz - [Linkedin](https://www.linkedin.com/in/lukasz-bartkiewicz/)
 - Patricia Wintrebert [Linkedin](https://www.linkedin.com/in/patriciawintrebert/) - [GitHub](https://github.com/patw47)
-- Ayauguli Khuanbai - [GitHub](https://github.com/Ayka77)
+- Ayauguli Khuanbai - [GitHub](https://github.com/Ayka77) - [GitHub](https://github.com/Ayka77)
 - Hafsa Aoutir [Linkedin](https://www.linkedin.com/in/hafsa-aoutir-448b52230/) - [GitHub](https://github.com/aoutir)
 - David Cardoso Sequeira [Linkedin](https://www.linkedin.com/in/uxd-david-c/) - [GitHub](https://github.com/CardSD)
 
